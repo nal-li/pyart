@@ -24,6 +24,8 @@
 .. |License| image:: https://anaconda.org/conda-forge/pyart_mch/badges/license.svg
     :target: https://anaconda.org/conda-forge/pyart_mch
 
+\:warning: **Please use the** `new repository <https://github.com/MeteoSwiss/pyrad>`_. **This repository is not maintained anymore!**
+
 The MeteoSwiss version of the Python ARM Radar Toolkit (Py-ART)
 ===============================================================
 
